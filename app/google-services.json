@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087687418588",
+    "project_id": "carserviceapp-e2e43",
+    "storage_bucket": "carserviceapp-e2e43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087687418588:android:117f1656742a6150b0ca19",
+        "android_client_info": {
+          "package_name": "com.example.carserviceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfbi0QKJSljhRQPj9lzimB0ByG6yjF3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
